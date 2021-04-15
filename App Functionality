@@ -1,0 +1,17 @@
+Thrift Shop Database
+
+    Tracks items that come in and out of the store
+
+       item inventory
+
+    Item:
+
+       name, 
+       purchase date, 
+       purchase price, 
+       sell date, 
+       sell price, 
+       profit,
+       quantity,
+       condition (poor, fair, good, new)
+
