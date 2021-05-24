@@ -1,0 +1,10 @@
+C:\Users\Subin\Desktop\4708\CST_4708_groupProject\ThirftShopAdmin\bin\Debug\ThirftShopAdmin.exe.config
+C:\Users\Subin\Desktop\4708\CST_4708_groupProject\ThirftShopAdmin\bin\Debug\ThirftShopAdmin.exe
+C:\Users\Subin\Desktop\4708\CST_4708_groupProject\ThirftShopAdmin\bin\Debug\ThirftShopAdmin.pdb
+C:\Users\Subin\Desktop\4708\CST_4708_groupProject\ThirftShopAdmin\obj\Debug\ThirftShopAdmin.csprojAssemblyReference.cache
+C:\Users\Subin\Desktop\4708\CST_4708_groupProject\ThirftShopAdmin\obj\Debug\ThirftShopAdmin.Form1.resources
+C:\Users\Subin\Desktop\4708\CST_4708_groupProject\ThirftShopAdmin\obj\Debug\ThirftShopAdmin.Properties.Resources.resources
+C:\Users\Subin\Desktop\4708\CST_4708_groupProject\ThirftShopAdmin\obj\Debug\ThirftShopAdmin.csproj.GenerateResource.cache
+C:\Users\Subin\Desktop\4708\CST_4708_groupProject\ThirftShopAdmin\obj\Debug\ThirftShopAdmin.csproj.CoreCompileInputs.cache
+C:\Users\Subin\Desktop\4708\CST_4708_groupProject\ThirftShopAdmin\obj\Debug\ThirftShopAdmin.exe
+C:\Users\Subin\Desktop\4708\CST_4708_groupProject\ThirftShopAdmin\obj\Debug\ThirftShopAdmin.pdb
