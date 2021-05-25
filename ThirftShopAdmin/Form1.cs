@@ -9,10 +9,12 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
 
+
 namespace ThirftShopAdmin
 {
     public partial class Form1 : Form
     {
+        
         //rounded form radius
         [DllImport("Gdi32.dll", EntryPoint = "CreateRoundRectRgn")]
         private static extern IntPtr CreateRoundRectRgn
@@ -33,7 +35,7 @@ namespace ThirftShopAdmin
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+           
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)

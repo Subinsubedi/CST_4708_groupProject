@@ -8,3 +8,6 @@ C:\Users\Subin\Desktop\4708\CST_4708_groupProject\ThirftShopAdmin\obj\Debug\Thir
 C:\Users\Subin\Desktop\4708\CST_4708_groupProject\ThirftShopAdmin\obj\Debug\ThirftShopAdmin.csproj.CoreCompileInputs.cache
 C:\Users\Subin\Desktop\4708\CST_4708_groupProject\ThirftShopAdmin\obj\Debug\ThirftShopAdmin.exe
 C:\Users\Subin\Desktop\4708\CST_4708_groupProject\ThirftShopAdmin\obj\Debug\ThirftShopAdmin.pdb
+C:\Users\Subin\Desktop\4708\CST_4708_groupProject\ThirftShopAdmin\bin\Debug\Database1.mdf
+C:\Users\Subin\Desktop\4708\CST_4708_groupProject\ThirftShopAdmin\bin\Debug\Database1_log.ldf
+C:\Users\Subin\Desktop\4708\CST_4708_groupProject\ThirftShopAdmin\obj\Debug\ThirftShopAdmin.Form2.resources
